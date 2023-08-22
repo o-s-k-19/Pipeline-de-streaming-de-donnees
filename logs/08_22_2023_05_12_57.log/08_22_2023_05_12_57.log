@@ -1,0 +1,24 @@
+[2023-08-22 05:12:57,819] 380 kafka.conn - INFO - <BrokerConnection node_id=bootstrap-2 host=localhost:9093 <connecting> [IPv4 ('127.0.0.1', 9093)]>: connecting to localhost:9093 [('127.0.0.1', 9093) IPv4]
+[2023-08-22 05:12:57,821] 410 kafka.conn - INFO - <BrokerConnection node_id=bootstrap-2 host=localhost:9093 <connecting> [IPv4 ('127.0.0.1', 9093)]>: Connection complete.
+[2023-08-22 05:12:58,310] 16 root - INFO - recupération des infos de Mr. آرسین. صدر avec succes
+[2023-08-22 05:12:58,313] 380 kafka.conn - INFO - <BrokerConnection node_id=0 host=osx:9092 <connecting> [IPv4 ('127.0.1.1', 9092)]>: connecting to osx:9092 [('127.0.1.1', 9092) IPv4]
+[2023-08-22 05:12:58,313] 410 kafka.conn - INFO - <BrokerConnection node_id=0 host=osx:9092 <connecting> [IPv4 ('127.0.1.1', 9092)]>: Connection complete.
+[2023-08-22 05:12:58,314] 919 kafka.conn - INFO - <BrokerConnection node_id=bootstrap-2 host=localhost:9093 <connected> [IPv4 ('127.0.0.1', 9093)]>: Closing connection. 
+[2023-08-22 05:13:08,885] 16 root - INFO - recupération des infos de Miss. Fatma. Çevik avec succes
+[2023-08-22 05:13:08,889] 380 kafka.conn - INFO - <BrokerConnection node_id=1 host=osx:9093 <connecting> [IPv4 ('127.0.1.1', 9093)]>: connecting to osx:9093 [('127.0.1.1', 9093) IPv4]
+[2023-08-22 05:13:08,890] 410 kafka.conn - INFO - <BrokerConnection node_id=1 host=osx:9093 <connecting> [IPv4 ('127.0.1.1', 9093)]>: Connection complete.
+[2023-08-22 05:13:19,391] 16 root - INFO - recupération des infos de Mrs. Elizabeth. Taylor avec succes
+[2023-08-22 05:13:29,945] 16 root - INFO - recupération des infos de Mr. Joás. Peixoto avec succes
+[2023-08-22 05:13:40,477] 16 root - INFO - recupération des infos de Ms. Kayla. Hamilton avec succes
+[2023-08-22 05:13:50,978] 16 root - INFO - recupération des infos de Mr. Tobias. Andersen avec succes
+[2023-08-22 05:14:01,506] 16 root - INFO - recupération des infos de Mr. Gerhard. Jüttner avec succes
+[2023-08-22 05:14:12,116] 16 root - INFO - recupération des infos de Mr. Jackson. Simmmons avec succes
+[2023-08-22 05:14:22,683] 16 root - INFO - recupération des infos de Miss. Isabela. Barela avec succes
+[2023-08-22 05:14:33,250] 16 root - INFO - recupération des infos de Mr. Lucien. Gauthier avec succes
+[2023-08-22 05:14:43,858] 16 root - INFO - recupération des infos de Miss. Penny. Watts avec succes
+[2023-08-22 05:14:43,863] 380 kafka.conn - INFO - <BrokerConnection node_id=2 host=osx:9094 <connecting> [IPv4 ('127.0.1.1', 9094)]>: connecting to osx:9094 [('127.0.1.1', 9094) IPv4]
+[2023-08-22 05:14:43,863] 410 kafka.conn - INFO - <BrokerConnection node_id=2 host=osx:9094 <connecting> [IPv4 ('127.0.1.1', 9094)]>: Connection complete.
+[2023-08-22 05:14:54,669] 16 root - INFO - recupération des infos de Mademoiselle. Leyla. Mathieu avec succes
+[2023-08-22 05:15:04,678] 919 kafka.conn - INFO - <BrokerConnection node_id=0 host=osx:9092 <connected> [IPv4 ('127.0.1.1', 9092)]>: Closing connection. 
+[2023-08-22 05:15:04,683] 919 kafka.conn - INFO - <BrokerConnection node_id=1 host=osx:9093 <connected> [IPv4 ('127.0.1.1', 9093)]>: Closing connection. 
+[2023-08-22 05:15:04,689] 919 kafka.conn - INFO - <BrokerConnection node_id=2 host=osx:9094 <connected> [IPv4 ('127.0.1.1', 9094)]>: Closing connection. 

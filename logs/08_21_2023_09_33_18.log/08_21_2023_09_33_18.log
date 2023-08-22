@@ -1,0 +1,15 @@
+[2023-08-21 09:33:19,398] 1527 kafka.conn - WARNING - DNS lookup failed for kafka2:19092, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:33:19,399] 315 kafka.conn - ERROR - DNS lookup failed for kafka2:19092 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:33:19,399] 1205 kafka.conn - INFO - Probing node bootstrap-2 broker version
+[2023-08-21 09:33:19,402] 1527 kafka.conn - WARNING - DNS lookup failed for kafka2:19092, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:33:19,402] 315 kafka.conn - ERROR - DNS lookup failed for kafka2:19092 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:33:19,405] 1527 kafka.conn - WARNING - DNS lookup failed for kafka1:19091, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:33:19,405] 315 kafka.conn - ERROR - DNS lookup failed for kafka1:19091 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:33:19,405] 1205 kafka.conn - INFO - Probing node bootstrap-0 broker version
+[2023-08-21 09:33:19,407] 1527 kafka.conn - WARNING - DNS lookup failed for kafka1:19091, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:33:19,408] 315 kafka.conn - ERROR - DNS lookup failed for kafka1:19091 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:33:19,410] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:33:19,411] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:33:19,411] 1205 kafka.conn - INFO - Probing node bootstrap-1 broker version
+[2023-08-21 09:33:19,413] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:33:19,414] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)

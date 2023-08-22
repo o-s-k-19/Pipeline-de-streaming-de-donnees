@@ -1,0 +1,423 @@
+[2023-08-21 09:49:38,159] 380 kafka.conn - INFO - <BrokerConnection node_id=bootstrap-2 host=localhost:19091 <connecting> [IPv4 ('127.0.0.1', 19091)]>: connecting to localhost:19091 [('127.0.0.1', 19091) IPv4]
+[2023-08-21 09:49:38,160] 418 kafka.conn - ERROR - Connect attempt to <BrokerConnection node_id=bootstrap-2 host=localhost:19091 <connecting> [IPv4 ('127.0.0.1', 19091)]> returned error 111. Disconnecting.
+[2023-08-21 09:49:38,160] 919 kafka.conn - INFO - <BrokerConnection node_id=bootstrap-2 host=localhost:19091 <connecting> [IPv4 ('127.0.0.1', 19091)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+[2023-08-21 09:49:38,215] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,215] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,269] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,269] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,322] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,323] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,376] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,376] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,430] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,430] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,483] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,483] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,536] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,536] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,591] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,592] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,646] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,646] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,686] 16 root - INFO - recupération des infos de Mr. Davut. Yıldızoğlu avec succes
+[2023-08-21 09:49:38,700] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,700] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,753] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,753] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,806] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,806] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,860] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,861] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,915] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,915] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:38,970] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:38,970] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,023] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,025] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,078] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,078] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,134] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,134] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,186] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,186] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,238] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,239] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,292] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,293] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,346] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,347] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,401] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,401] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,453] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,454] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,506] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,506] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,559] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,559] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,613] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,614] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,668] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,669] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,722] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,722] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,776] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,777] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,829] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,830] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,884] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,885] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,939] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,939] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:39,993] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:39,993] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,048] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,048] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,103] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,104] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,158] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,158] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,212] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,212] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,265] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,265] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,319] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,320] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,375] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,376] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,429] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,430] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,483] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,484] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,537] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,537] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,593] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,594] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,655] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,655] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,710] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,710] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,764] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,764] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,816] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,817] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,869] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,869] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,926] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,926] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:40,981] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:40,982] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,036] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,037] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,093] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,093] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,146] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,146] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,199] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,200] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,252] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,252] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,305] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,306] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,360] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,360] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,414] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,414] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,469] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,469] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,522] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,522] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,578] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,578] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,631] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,631] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,685] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,686] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,739] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,739] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,792] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,792] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,846] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,846] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,899] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,899] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:41,952] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:41,952] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,004] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,005] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,058] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,058] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,112] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,112] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,165] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,165] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,219] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,219] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,272] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,272] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,325] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,325] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,379] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,379] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,434] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,434] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,488] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,488] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,542] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,542] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,595] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,595] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,649] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,649] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,706] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,706] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,761] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,762] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,815] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,815] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,868] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,868] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,920] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,921] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:42,974] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:42,975] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,028] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,029] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,084] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,084] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,138] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,140] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,193] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,194] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,247] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,247] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,301] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,301] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,355] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,355] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,409] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,409] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,462] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,462] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,516] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,516] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,570] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,571] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,629] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,630] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,685] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,685] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,738] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,739] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,794] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,795] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,848] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,849] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,903] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,903] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:43,957] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:43,958] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,011] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,011] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,066] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,066] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,126] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,126] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,180] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,180] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,234] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,234] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,287] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,287] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,340] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,341] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,393] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,393] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,453] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,453] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,506] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,507] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,560] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,561] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,614] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,618] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,681] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,682] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,736] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,736] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,789] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,790] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,843] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,843] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,898] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,898] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:44,951] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:44,951] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,007] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,007] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,062] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,062] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,116] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,116] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,172] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,173] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,227] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,228] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,280] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,281] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,334] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,334] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,388] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,388] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,442] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,442] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,496] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,496] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,549] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,550] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,604] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,604] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,658] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,658] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,713] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,714] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,767] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,767] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,821] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,822] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,875] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,875] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,929] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,929] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:45,983] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:45,983] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,036] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,037] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,094] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,094] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,148] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,148] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,203] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,203] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,256] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,256] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,310] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,310] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,366] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,366] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,421] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,422] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,475] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,475] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,528] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,529] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,582] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,582] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,635] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,636] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,689] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,689] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,742] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,743] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,798] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,799] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,851] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,851] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,905] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,905] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:46,959] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:46,960] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,013] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,015] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,069] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,069] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,124] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,124] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,178] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,179] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,232] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,233] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,288] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,289] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,342] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,342] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,395] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,396] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,455] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,455] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,510] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,510] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,563] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,563] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,617] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,618] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,670] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,671] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,725] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,725] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,778] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,779] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,835] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,835] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,890] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,890] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,945] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,946] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:47,999] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:47,999] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,052] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,052] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,106] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,106] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,167] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,168] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,221] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,221] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,283] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,283] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,337] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,338] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,393] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,394] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,462] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,462] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,516] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,516] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,572] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,572] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,627] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,628] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,683] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,683] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,738] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,738] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,793] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,793] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,846] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,846] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,901] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,902] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:48,956] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:48,956] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,009] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:49,009] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,062] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:49,063] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,115] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:49,116] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,171] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:49,171] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,224] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:49,224] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,278] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:49,279] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,333] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:49,333] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,387] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:49,387] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,425] 16 root - INFO - recupération des infos de Mr. Victor. Chow avec succes
+[2023-08-21 09:49:49,448] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:49,448] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,503] 1527 kafka.conn - WARNING - DNS lookup failed for kafka3:19093, exception was [Errno -3] Temporary failure in name resolution. Is your advertised.listeners (called advertised.host.name before Kafka 9) correct and resolvable?
+[2023-08-21 09:49:49,503] 315 kafka.conn - ERROR - DNS lookup failed for kafka3:19093 (AddressFamily.AF_UNSPEC)
+[2023-08-21 09:49:49,533] 483 kafka.producer.kafka - INFO - Closing the Kafka producer with 0 secs timeout.
+[2023-08-21 09:49:49,533] 499 kafka.producer.kafka - INFO - Proceeding to force close the producer since pending requests could not be completed within timeout 0.
